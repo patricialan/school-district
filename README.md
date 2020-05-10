@@ -5,12 +5,12 @@ School district data (math and reading standardized test scores) was analyzed fo
 
 1. How is the district summary affected?
 2. How is the school summary affected?
-3. How does removing the 9th graders' math and reading scores affect Thomas High School's performance, relative to the other schools?
+3. How does removing the 9th graders' math and reading scores affect THS' performance, relative to the other schools?
 4. How does removing the 9th grade scores affect the following:
-  a. Math and reading scores by grade
-  b. Scores by school spending
-  c. Scores by school size
-  d. Scores by school type 
+  - Math and reading scores by grade
+  - Scores by school spending
+  - Scores by school size
+  - Scores by school type 
 
 ## Resources
 Data sources: schools_complete.csv and students_complete.csv

@@ -43,4 +43,3 @@ for the data analysis.
  - Scores by school size were only affected in the Medium (1,000-2,000) range, which contains THS (1,635 students). AMS and ARS were unchanged in the Medium size range. However, the %PM, %PR, and %OP all decreased by 6%. 
  - Since THS is a charter school, only the scores of charter-type schools were affected. AMS and ARS were unchanged. However, %PM, %PR, and %OP decreased by 4%, 4%, and 3%, respectively. 
  - After removal of THS 9th graders' scores, AMS and ARS showed mostly insignificant changes in the subanalyses. This is likely because THS 9th graders were a small subpopulation in most subanalyses and because their mean test scores were similar to the overall mean test scores of the subanalyses. 
->>>>>>> 3ba7bb1cda7d3b648cd11f5611d7a389833994f6

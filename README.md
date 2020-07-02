@@ -1,4 +1,4 @@
-# school-district-analysis
+# School District
 
 ## Challenge Overview
 School district data (math and reading standardized test scores) was analyzed for trends. Test scores for 9th graders at Thomas High school (THS) were removed (set to "NaN", which is equivalent to a zero value) while keeping these students in all student counts. The impact on trends was assessed with these questions:
